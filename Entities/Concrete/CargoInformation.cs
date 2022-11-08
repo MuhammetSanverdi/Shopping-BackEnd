@@ -15,5 +15,6 @@ namespace Entities.Concrete
         public string RecipientFirstName { get; set; }
         public string RecipientLastName { get; set; }
         public string Address { get; set; }
+         
     }
 }
